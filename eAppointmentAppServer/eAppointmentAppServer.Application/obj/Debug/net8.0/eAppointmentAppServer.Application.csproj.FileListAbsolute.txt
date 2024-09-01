@@ -1,0 +1,15 @@
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\bin\Debug\net8.0\eAppointmentAppServer.Application.deps.json
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\bin\Debug\net8.0\eAppointmentAppServer.Application.dll
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\bin\Debug\net8.0\eAppointmentAppServer.Application.pdb
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\bin\Debug\net8.0\eAppointmentAppServer.Domain.dll
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\bin\Debug\net8.0\eAppointmentAppServer.Domain.pdb
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\obj\Debug\net8.0\eAppointmentAppServer.Application.csproj.AssemblyReference.cache
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\obj\Debug\net8.0\eAppointmentAppServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\obj\Debug\net8.0\eAppointmentAppServer.Application.AssemblyInfoInputs.cache
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\obj\Debug\net8.0\eAppointmentAppServer.Application.AssemblyInfo.cs
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\obj\Debug\net8.0\eAppointmentAppServer.Application.csproj.CoreCompileInputs.cache
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\obj\Debug\net8.0\eAppoint.E51620A4.Up2Date
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\obj\Debug\net8.0\eAppointmentAppServer.Application.dll
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\obj\Debug\net8.0\refint\eAppointmentAppServer.Application.dll
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\obj\Debug\net8.0\eAppointmentAppServer.Application.pdb
+D:\eAppointmentApp\eAppointmentAppServer\eAppointmentAppServer.Application\obj\Debug\net8.0\ref\eAppointmentAppServer.Application.dll

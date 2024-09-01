@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u7EyVHDg0jy4nfTof60q1XhqSvanyU/6EvqVzOo2xRQ=",
+  "Source": "eAppointmentAppServer.WebAPI",
+  "BasePath": "_content/eAppointmentAppServer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
